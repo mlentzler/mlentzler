@@ -1,4 +1,4 @@
-### Hi 👋, I'm Michel 
+<p align="center">Hi 👋, I'm Michel.</p> 
 
 <!--
 **mlentzler/mlentzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
