@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlentzler&theme=tokyonight&hide_border=true" alt="mlentzler's Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlentzler&theme=default&hide_border=true" alt="mlentzler's Streak"/>
 </p>
 
 
