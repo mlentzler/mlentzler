@@ -3,13 +3,6 @@
 <p align="center">
   I'm a Full Stack Developer and Data Engineer based in Germany. I'm passionate about DIY projects and an engineering fanatic!🏎️
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlentzler&theme=default&hide_border=true" alt="mlentzler's Streak"/>
-</p>
-
-
 <!--
 **mlentzler/mlentzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
